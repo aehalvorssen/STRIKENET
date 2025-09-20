@@ -1,0 +1,39 @@
+		○ Home page: 
+			§ Overall Layout
+				□ Full-screen hero section dominates the homepage.
+				□ Background: 
+					® A high-resolution underwater photograph featuring a lionfish among coral and smaller fish. The colors are vibrant, with deep blues, reds, and oranges creating contrast.
+				□ Overlay text & UI elements are left-aligned (main copy) and right-aligned (button), ensuring balance and readability against the background.
+				□ Typography is bold, modern, and sans-serif, optimized for readability against the underwater photo.
+			§ Header / Navigation
+				□ Logo (top left):
+					® Wordmark "STRIKENET" in bold white uppercase letters.
+					® To the left of the wordmark is a symmetrical lionfish-inspired logo mark (white).
+				□ Menu icon (top right):
+					® Minimalist three horizontal lines (hamburger menu) in white.
+					® Positioned at the far right edge, aligned with the logo vertically.
+			§ Hero Section (Main Content)
+				□ Primary headline (left side, mid-screen):
+					® Large, bold white text.
+					® Reads: "Track and tackle invasive species across South Florida with AI-powered reporting and community challenges."
+					® Text spans 4 lines, flush left, with good line spacing.
+				□ Sub-headline (below headline, smaller font):
+					® White text, lighter weight.
+					® Reads: "Dive in, explore the map, and see how you can make an impact."
+					® Runs across two lines, aligned left.
+				□ CTA Button (right side, mid-screen):
+					® White rectangular outline button, transparent background.
+					® Inside text: TAKE ME TO REPORT in uppercase, condensed sans-serif font.
+					® Text is centered, black or very dark gray for contrast.
+					® Positioned to the right of the fish (visually balanced).
+			§ Stylistic Notes
+				□ Color palette:
+					® Background: Vibrant blues and coral reds from the underwater image.
+					® Text & logo: White, ensuring contrast.
+					® Button: White outline with dark text, minimalist design.
+				□ Typography vibe:
+					® Clean, modern sans-serif (similar to Helvetica Neue or Inter).
+					® Headline is bold and commanding, sub-headline lighter for readability.
+					® Visual hierarchy:
+					® Large headline first, then smaller descriptive text, then the clear CTA.
+					® The background image frames the lionfish as a visual focal point to  reinforce the theme of invasive species.

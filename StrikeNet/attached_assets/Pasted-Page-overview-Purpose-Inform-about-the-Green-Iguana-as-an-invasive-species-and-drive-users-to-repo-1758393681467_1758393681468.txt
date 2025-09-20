@@ -1,0 +1,121 @@
+Page overview
+
+Purpose: Inform about the Green Iguana as an invasive species and drive users to report a sighting.
+
+Layout: Two-column hero section on a dark brown canvas.
+
+Left: Species card with photo.
+
+Right: Headline, short explainer copy, and a primary CTA button.
+
+Visual theme (approx values)
+
+Background: deep brown #3B2A2A (range #3A2A27–#3D2B28)
+
+Primary accent (blue): bright cyan-blue #109ADE (range #0EA3E4–#1290D6)
+
+Card inner border / tab blue: same as primary accent
+
+Body text: off-white #F2F0ED
+
+Muted text: light gray #D8D3CF
+
+CTA text: white #FFFFFF
+
+CTA outline: primary accent blue
+
+Typography (close matches)
+
+Logo/Heading style: tall, condensed sans (e.g., Bebas Neue, Anton, or Impact-like). Uppercase, heavy weight, tight tracking.
+
+Body copy: monospaced / typewriter style (e.g., Space Mono, IBM Plex Mono), normal weight, slightly increased line height.
+
+Emphasis: bold within body paragraphs to highlight key phrases.
+
+Header
+
+Left-aligned logo: small eagle mark + wordmark “STRIKENET” in white, uppercase, compact.
+
+No nav visible on this screen.
+
+Main content (two-column)
+Left column: Species card
+
+Container: fixed-width card, offset from the left margin; rectangular with a thick blue frame (~20–24px). No drop shadow.
+
+Top label bar: full-width blue band with “GREEN IGUANA” in large white uppercase letters.
+
+Image: centered photo of a green iguana on grass; aspect ~4:5 to 3:4; fills the inner area, no rounded corners.
+
+Spacing: generous top/bottom padding inside the blue frame.
+
+Right column: Text + CTA
+
+Super-headline: “MEET YOUR LOCAL INVASOR” (large, uppercase, white).
+
+⚠️ Typo to fix: should be “INVADER” (or “INVASIVE”).
+
+If you want to keep the tone, recommended: “MEET YOUR LOCAL INVADER.”
+
+Lead line (mono font):
+“The Green Iguana is an Invasive Species of South Florida.”
+
+Section subheads (mono, bold):
+
+“What are the regulations in” ← appears truncated in the image; likely intended as
+“What are the regulations in South Florida?” or “…in [your county]?”
+
+“What can we do together?”
+
+Body paragraphs (mono font, white; with bold emphasis):
+
+Para 1 (harm statement):
+“Iguanas in South Florida cause costly damage by burrowing into structures, destroying native plants, and spreading waste that contaminates yards and waterways.”
+
+Para 2 (civic action):
+“As South Floridians, we can help by reporting sightings, supporting safe removal, protecting native plants, and spreading awareness about the impact of invasives.”
+
+Tagline/aside line (mono, slightly separated):
+“See one, report one.”
+
+Primary CTA button: bottom-left of the right column content block.
+
+Label: “TAKE ME TO REPORT” (uppercase).
+
+Style: dark fill (matching background) with a 2px blue outline, slightly rounded corners, white label text.
+
+Hover (suggested): blue fill, dark text or white text with stronger glow.
+
+Action: anchors to report form/page.
+
+Content (copy block you can paste)
+
+Headline:
+MEET YOUR LOCAL INVADER ← (fix applied)
+
+Lead line:
+The Green Iguana is an Invasive Species of South Florida.
+
+Subhead 1:
+What are the regulations in South Florida? ← (complete the truncated line)
+
+Paragraph (harm):
+Iguanas in South Florida cause costly damage by burrowing into structures, destroying native plants, and spreading waste that contaminates yards and waterways.
+
+Subhead 2:
+What can we do together?
+
+Paragraph (actions):
+As South Floridians, we can help by reporting sightings, supporting safe removal, protecting native plants, and spreading awareness about the impact of invasives.
+
+Micro-tagline:
+See one, report one.
+
+CTA:
+TAKE ME TO REPORT
+
+Left card title:
+GREEN IGUANA
+
+Left card image alt text (recommended):
+“Green iguana on grass, side profile, showing dorsal spines and forelimbs.”

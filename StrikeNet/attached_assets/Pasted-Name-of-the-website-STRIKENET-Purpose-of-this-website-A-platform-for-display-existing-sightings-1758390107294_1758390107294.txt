@@ -1,0 +1,39 @@
+Name of the website: STRIKENET
+
+Purpose of this website: A platform for display existing sightings, report new sightings, identifying if species are invasive, determine whether it is legal to hunt them in the state of FL, create community events for managing these species, and educational resources.
+People all across Florida will be able to use the webpage to report sightings of a predetermined list of invasive species. Reports will go into a database feeding a heatmap of Florida that will have live updates of sightings. People will be able to see where reports have been made and what species was reported.
+
+Cleaner version of purpose of platform: "Track and tackle invasive species across South Florida with AI-powered reporting and community challenges".
+
+The platform will run on React and Vite and will call a post and get routes in a back end to capture an image and also get a list of images reported.
+
+Structure I want to create.
+	· Core pages:
+		○ Home page: landing page stating the cleaner version purpose of the platform on the left. Must have a hamburger menu on the top right corner of the screen linking to the other listed pages in the "Hamburger Menu" section.  Must also have the logo of organization on the top left corner of the webpage. The name "STRIKENET" will be displayed in the top center part. On the bottom right area of the page, there will be a button stating "Take me to report", hyperlinked to the "Interactive Invasive Species Map" section. (Reference picture: "Landing Page 1.png)
+Scrolling down takes you to the "Interactive Invasive Species Map" section where there will be a heatmap of South Florida, from just north of Lake Okeechobee to just south of Key West, with live updates on latest sightings. Just on top of the map, the following text will sit: "Report an invasive species sighting and let our AI confirm what you found — including whether it’s invasive and if it’s legal to remove".  To the right of the map, there will be a key function for filtering what data points are shown in the heatmap; this section will also include the predetermined list of invasive species. At the bottom of the heatmap, there will be a report button users will use to do the actual reporting. (Reference picture: "Landing Page 2.png)
+		○ Reporting Page (reference picture: Reporting Page 1.png): will show a map with the exact location of the user at the time of reporting to the left. To the right, there will be a questionnaire with the following prompts:
+"What did you spot? If unsure, upload a photo for AI identification". The response for this will be a dropdown of the predetermined list of invasive species as options.
+			§ "Upload a picture". There will be an area where people can drag and drop files or upload them from device.
+			§ "Tell us where you found it": Dropdown with following options and functionality:
+				□ "Use my current location"
+				□ "Drop a pin on map"
+				□ "Enter Manually"
+			§ "Description (or leave blank)"
+		○ Green Iguana Education page: on the left, a picture of a green iguana. On the right, a text box with the information on the Green Iguana 1.png reference picture. (reference picture: Green Iguana 1.png). 
+Scrolling down will take you to the key insights section (reference picture: Reporting Page 2.png)
+	· Hamburger Menu pages:
+		○ Education: on the left, a picture of a green iguana. On the right, a text box with the information on the Green Iguana 1.png reference picture. (reference picture: Green Iguana 1.png). 
+Scrolling down will take you to the key insights section (reference picture: Green Iguana 2.png)
+		○ Communities: page with static boxes of events going on in South Florida for managing invasive species. There will only be 2 events:
+			§ "Fishing the king of the sea": an event for hunting lionfish in the Florida Keys. Will be free to attend on October 20th, 2025 with no sign up required.
+			§ "Igua-no-more": Iguana catching event taking place in Enchanted Forest Par. Will be free to attend on March 13th, 2026 with no sign up required.
+
+All pages should have the logo (reference picture: Logo 1.png) on the top left corner of each page.
+
+Predetermined list of invasive species:
+	· Lionfish
+	· Walking Catfish
+	· Mayan Cichild
+	· Green Iguana
+	· Egyptian Goose
+	· Other
